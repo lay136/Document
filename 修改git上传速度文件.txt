@@ -1,0 +1,9 @@
+修改git上传速度：
+1.可以利用https://www.ipaddress.com/ 来获得以下两个GitHub域名的IP地址：
+github.com
+github.global.ssl.fastly.net
+打开网页后，利用输入框内分别查询两个域名：
+将以上两段获取的IP写入Hosts文件中：
+格式为：
+140.82.114.4 github.com
+199.232.69.194 github.global.ssl.fastly.net
