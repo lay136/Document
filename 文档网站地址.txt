@@ -3,4 +3,7 @@ Express
 官网:http://expressjs.com/
 中文网站:http://www.expressjs.com.cn/
 
-
+git回退版本
+git log查看最近提交的版本号
+git  reset --hard +版本号
+就可以回退到之前的版本了
