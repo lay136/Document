@@ -50,7 +50,8 @@ v-on:click 可以缩写为 @
 .once 自身事件只触发一次,冒泡不会停止
 
 
-
+安装vue-devtools的地址：
+https://github.com/vuejs/vue-devtools/tree/master
 
 
 
