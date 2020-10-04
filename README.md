@@ -55,8 +55,8 @@ v-on:click 可以缩写为 @
 https://github.com/vuejs/vue-devtools/tree/master
 
 
-
-
+安装SVN的地址：
+https://www.visualsvn.com/visualsvn/download/tortoisesvn/
 
 
 
